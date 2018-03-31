@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menu_logout_button"
+        android:title="logout" />
+    <item
+        android:id="@+id/main_allUers_button"
+        android:title="All Users" /><![CDATA[
+
+        android:title=
+        android:id=@+id/mai />
+]]>
+</menu>
